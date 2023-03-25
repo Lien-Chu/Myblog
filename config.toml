@@ -13,7 +13,7 @@ hasCJKLanguage = true
 home = ["HTML", "RSS", "Algolia"]
 
 [params]
-  header_image = "Myblog.github.io/img/home-bg.jpg"
+  header_image = "https://lien-chu.github.io/Myblog.github.io/img/home-bg.jpg"
   SEOTitle = "赵化冰的博客 | Zhaohuabing Blog"
   description = "赵化冰，程序员, 开源爱好者，生活探险家 | 这里是 赵化冰 的博客，与你一起发现更大的世界。"
   keyword = "赵化冰, zhaohuabing, Zhaohuabing, , 赵化冰的网络日志, 赵化冰的博客, Zhaohuabing Blog, 博客, 个人网站, 互联网, Web, 云原生, PaaS, Istio, Kubernetes, 微服务, Microservice"
@@ -36,8 +36,8 @@ home = ["HTML", "RSS", "Algolia"]
 
   # Sidebar settings
   sidebar_about_description = "While developing web applications can be challenging and buggy, troubleshooting and debugging code is an important skill a developer must have."
-  #sidebar_avatar = "Myblog.github.io/img/me.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
-  sidebar_avatar = "Myblog.github.io/img/me.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
+  #sidebar_avatar = "https://lien-chu.github.io/Myblog.github.io/img/me.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
+  sidebar_avatar = "https://lien-chu.github.io/Myblog.github.io/img/me.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
 
   featured_tags = true 
   featured_condition_size = 1 
@@ -55,10 +55,10 @@ home = ["HTML", "RSS", "Algolia"]
   twikoo_env_id = ""
 
   #Enable wechat pay & alipay to allow readers send reward money if they like the articles 
-  reward = true 
+  reward = false 
   # reward_guide = "如果这篇文章对你有用,请随意打赏" 
 
-  friends = true
+  friends = false
   bookmarks = false
   about_me = true
 
@@ -106,13 +106,13 @@ home = ["HTML", "RSS", "Algolia"]
   
  # [[params.addtional_menus]]
   #title =  "ARCHIVE"
-  #href =  "Myblog.github.io/archive/"
+  #href =  "https://lien-chu.github.io/Myblog.github.io/archive/"
   #[[params.addtional_menus]]
   #title =  "NOTES"
- # href =  "Myblog.github.io/notes/"
+ # href =  "https://lien-chu.github.io/Myblog.github.io/notes/"
   [[params.addtional_menus]]
   title =  "ABOUT"
-  href =  "Myblog.github.io/about/"
+  href =  "https://lien-chu.github.io/Myblog.github.io/about/"
 
 [outputFormats.Algolia]
 baseName = "algolia"
