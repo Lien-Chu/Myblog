@@ -1,10 +1,10 @@
 ---
 title:       "An Example Post"
-subtitle:    "
-description: "
+subtitle:    ""
+description: ""
 date:        2018-06-04
-author:      "
-image:       "
+author:      "Vicky"
+image:       ""
 tags:        ["tag1", "tag2"]
 categories:  
 ---
