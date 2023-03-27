@@ -13,13 +13,13 @@ hasCJKLanguage = true
 home = ["HTML", "RSS", "Algolia"]
 
 [params]
-  header_image = "/img/home-bg.jpg"
+  header_image = "https://lien-chu.github.io/Myblog.github.io/img/home-bg.jpg"
   SEOTitle = "It's a place to learning .Net | Incubator Blog"
   description = "Great to hear that you're interested in learning .NET!  | let us grow together"
   keyword = ".Net Framework, vickykulumanga, Incubator Blog, Asp.Net Core MVC, C#, Visual Studio "
   slogan = "Programmer Incubator Blog"
 
-  image_404 = "/img/404-bg.jpg"
+  image_404 = "https://lien-chu.github.io/Myblog.github.io/img/404-bg.jpg"
   title_404 = "You came to the wasteland unknowingly :("
   omit_categories = false
 
