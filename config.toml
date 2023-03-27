@@ -1,10 +1,10 @@
 baseURL = 'https://lien-chu.github.io/Myblog.github.io/'
 title = 'Time To Become .Net Web Developer!'
 theme = "hugo-theme-cleanwhite"
-languageCode = "us"
+languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
-disqusShortname = ""
-googleAnalytics = ""
+disqusShortname = "
+googleAnalytics = "
 preserveTaxonomyNames = true
 paginate = 5 #frontpage pagination
 hasCJKLanguage = true
@@ -25,8 +25,8 @@ home = ["HTML", "RSS", "Algolia"]
 
   # leancloud storage for page view counter
   page_view_conter = false 
-  leancloud_app_id = ""
-  leancloud_app_key = ""
+  leancloud_app_id = "
+  leancloud_app_key = "
 
 
   # Sidebar settings
