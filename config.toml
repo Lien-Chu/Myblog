@@ -52,7 +52,7 @@ home = ["HTML", "RSS", "Algolia"]
   twikoo_env_id = ""
 
   #Enable wechat pay & alipay to allow readers send reward money if they like the articles 
-  reward = true 
+  reward = false 
   # reward_guide = "如果这篇文章对你有用,请随意打赏" 
 
   friends = false
@@ -65,18 +65,18 @@ home = ["HTML", "RSS", "Algolia"]
 
 
 [params.social]
-  rss            = true 
-  email          = "vickykulumanga@gmail.com"
-  #facebook      = "k"
+  rss            = "" 
+  email          = ""
+  #facebook      = ""
   #googleplus    = ""
   #twitter       = ""
-  linkedin       = "https://www.linkedin.com/in/lien-chu-huang-85a78b238"
+  linkedin       = ""
   stackoverflow  = ""
   #instagram     = ""
-  github         = "https://github.com/Lien-Chu"
+  github         = ""
   wechat         = ""
   #medium        = ""
-  #slack         =  "https://app.slack.com/huddle/T03EPP9R230/C04V9967X9V"
+  #slack         = ""
   #pinterest     = ""
   #reddit        = ""
   #gitlab        = ""
